@@ -1,0 +1,212 @@
+{
+  "type": "FeatureCollection",
+  "name": "INDIA_LNG_TERMINALS_OPERATING",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "T100000130800",
+        "name": "Chhara LNG Terminal",
+        "category": "lng_terminal",
+        "sub_type": "lng",
+        "status": "operating",
+        "capacity": 5.0,
+        "capacity_units": "mtpa",
+        "owner": "HPCL Shapoorji Energy Pvt Ltd [100%]",
+        "state_province": "Gujarat",
+        "location_precision": "exact",
+        "source": "GEM_GGIT_LNG_Terminals",
+        "source_url_or_reference": "https://www.gem.wiki/Chhara_LNG_Terminal",
+        "last_updated_source": "2025-08-28T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.749983,
+          20.72124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "T100000130429",
+        "name": "Dabhol LNG Terminal",
+        "category": "lng_terminal",
+        "sub_type": "lng",
+        "status": "operating",
+        "capacity": 5.0,
+        "capacity_units": "mtpa",
+        "owner": "Konkan LNG Ltd [100%]",
+        "state_province": "Maharashtra",
+        "location_precision": "exact",
+        "source": "GEM_GGIT_LNG_Terminals",
+        "source_url_or_reference": "https://www.gem.wiki/Dabhol_LNG_Terminal",
+        "last_updated_source": "2025-08-28T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16,
+          17.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "T100000130427",
+        "name": "Dahej LNG Terminal",
+        "category": "lng_terminal",
+        "sub_type": "lng",
+        "status": "operating",
+        "capacity": 15.0,
+        "capacity_units": "mtpa",
+        "owner": "Petronet LNG [100%]",
+        "state_province": "Gujarat",
+        "location_precision": "exact",
+        "source": "GEM_GGIT_LNG_Terminals",
+        "source_url_or_reference": "https://www.gem.wiki/Dahej_LNG_Terminal",
+        "last_updated_source": "2025-08-28T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.536,
+          21.6746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "T100000130431",
+        "name": "Dhamra LNG Terminal",
+        "category": "lng_terminal",
+        "sub_type": "lng",
+        "status": "operating",
+        "capacity": 5.0,
+        "capacity_units": "mtpa",
+        "owner": "Dhamra LNG Terminal Pvt Ltd [100%]",
+        "state_province": null,
+        "location_precision": "exact",
+        "source": "GEM_GGIT_LNG_Terminals",
+        "source_url_or_reference": "https://www.gem.wiki/Dhamra_LNG_Terminal",
+        "last_updated_source": "2025-08-28T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.965264,
+          20.821109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "T100000130662",
+        "name": "Ennore LNG Terminal",
+        "category": "lng_terminal",
+        "sub_type": "lng",
+        "status": "operating",
+        "capacity": 5.0,
+        "capacity_units": "mtpa",
+        "owner": "Indian Oil Corp Ltd [90%]; Tamil Nadu Industrial Development Corp [10%]",
+        "state_province": "Tamil Nadu",
+        "location_precision": "approximate",
+        "source": "GEM_GGIT_LNG_Terminals",
+        "source_url_or_reference": "https://www.gem.wiki/Ennore_LNG_Terminal",
+        "last_updated_source": "2025-08-28T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.337425,
+          13.259407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "T100000130439",
+        "name": "Hazira LNG Terminal",
+        "category": "lng_terminal",
+        "sub_type": "lng",
+        "status": "operating",
+        "capacity": 5.2,
+        "capacity_units": "mtpa",
+        "owner": "Shell Energy India Pvt Ltd [100%]",
+        "state_province": "Gujarat",
+        "location_precision": "exact",
+        "source": "GEM_GGIT_LNG_Terminals",
+        "source_url_or_reference": "https://www.gem.wiki/Hazira_LNG_Terminal",
+        "last_updated_source": "2025-08-28T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.624,
+          21.098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "T100000130447",
+        "name": "Kochi LNG Terminal",
+        "category": "lng_terminal",
+        "sub_type": "lng",
+        "status": "operating",
+        "capacity": 5.0,
+        "capacity_units": "mtpa",
+        "owner": "Petronet LNG [100%]",
+        "state_province": "Kerala",
+        "location_precision": "exact",
+        "source": "GEM_GGIT_LNG_Terminals",
+        "source_url_or_reference": "https://www.gem.wiki/Kochi_LNG_Terminal",
+        "last_updated_source": "2025-08-28T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2261,
+          9.9787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "facility_id": "T100000130455",
+        "name": "Mundra LNG Terminal",
+        "category": "lng_terminal",
+        "sub_type": "lng",
+        "status": "operating",
+        "capacity": 5.0,
+        "capacity_units": "mtpa",
+        "owner": "S.B. Adani Family Trust [5%]; Gujarat State Petronet [95%]",
+        "state_province": "Gujarat",
+        "location_precision": "exact",
+        "source": "GEM_GGIT_LNG_Terminals",
+        "source_url_or_reference": "https://www.gem.wiki/Mundra_LNG_Terminal",
+        "last_updated_source": "2025-08-28T00:00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6668651,
+          22.7374322
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+name,category,mineral_type,latitude,longitude,status,capacity,owner,source,location_precision,source_url_or_reference
+Chhara LNG Terminal,lng_terminal,LNG,20.72124,70.749983,operating,5.0,HPCL Shapoorji Energy Pvt Ltd [100%],GEM_GGIT_LNG_Terminals,exact,https://www.gem.wiki/Chhara_LNG_Terminal
+Dabhol LNG Terminal,lng_terminal,LNG,17.54,73.16,operating,5.0,Konkan LNG Ltd [100%],GEM_GGIT_LNG_Terminals,exact,https://www.gem.wiki/Dabhol_LNG_Terminal
+Dahej LNG Terminal,lng_terminal,LNG,21.6746,72.536,operating,15.0,Petronet LNG [100%],GEM_GGIT_LNG_Terminals,exact,https://www.gem.wiki/Dahej_LNG_Terminal
+Dhamra LNG Terminal,lng_terminal,LNG,20.821109,86.965264,operating,5.0,Dhamra LNG Terminal Pvt Ltd [100%],GEM_GGIT_LNG_Terminals,exact,https://www.gem.wiki/Dhamra_LNG_Terminal
+Ennore LNG Terminal,lng_terminal,LNG,13.259407,80.337425,operating,5.0,Indian Oil Corp Ltd [90%]; Tamil Nadu Industrial Development Corp [10%],GEM_GGIT_LNG_Terminals,approximate,https://www.gem.wiki/Ennore_LNG_Terminal
+Hazira LNG Terminal,lng_terminal,LNG,21.098,72.624,operating,5.2,Shell Energy India Pvt Ltd [100%],GEM_GGIT_LNG_Terminals,exact,https://www.gem.wiki/Hazira_LNG_Terminal
+Kochi LNG Terminal,lng_terminal,LNG,9.9787,76.2261,operating,5.0,Petronet LNG [100%],GEM_GGIT_LNG_Terminals,exact,https://www.gem.wiki/Kochi_LNG_Terminal
+Mundra LNG Terminal,lng_terminal,LNG,22.7374322,69.6668651,operating,5.0,S.B. Adani Family Trust [5%]; Gujarat State Petronet [95%],GEM_GGIT_LNG_Terminals,exact,https://www.gem.wiki/Mundra_LNG_Terminal

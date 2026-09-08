@@ -1,0 +1,367 @@
+name,category,mineral_type,latitude,longitude,status,capacity,owner,source,location_precision,source_url_or_reference
+Adasa Coal Mine,mining,Subbituminous,21.347003,78.953545,Operating,1.85,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Adasa_Coal_Mine
+Adriyala Coal Mine,mining,Subbituminous,18.6648,79.579,Operating,2.5,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Adriyala_coal_mine
+AKK Coal Mine,mining,Subbituminous,23.7905,85.9198,Operating,7.0,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/AKK_coal_mine
+Amadand Coal Mine,mining,Subbituminous,23.157942,82.061533,Operating,4.0,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Amadand_coal_mine
+Amaglmated Block IV-Kooridih-Govindpur Coal Mine,mining,Bituminous,23.800453,86.276944,Operating,1.2,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Amaglmated_Block_IV-Kooridih-Govindpur_Coal_Mine
+Amalgamated Amlo Dhori Open Cast Mine,mining,Subbituminous,23.76663448,85.98552098,Operating,3.0,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Amlo_Dhori_Coal_Mine
+Amalgamated Inder Kamptee Coal Mine,mining,Subbituminous,21.241388,79.229444,Operating,3.56,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Amalgamated_Inder-Kamptee_Coal_Mine
+Amalgamated Joyrampur Colliery,mining,Bituminous,23.71029839,86.4356662869932,Operating,3.25,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Amalgamated_Joyrampur_Colliery
+Amalgamated Keshalpur-West Mudidih (AKWMC) Coal Mine,mining,Bituminous,23.8078,86.3221,Operating,7.15,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Cluster_No._5_(BCCL)
+Amalgamated LSMK UG & OC Mine,mining,Subbituminous,23.772821,86.7319645,Operating,2.3,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Amalgamated_LSMK_UG_%26_OC_Mine
+Amalgamated Yekona I and II Coal Mines,mining,Lignite,20.228333,78.9166666,Operating,3.3,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Amalgamated_Yekona_Mine
+Amelia Coal Mine,mining,Subbituminous,24.072448,82.414011,Operating,4.0,THDC India Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Amelia_coal_mine
+Amelia North Coal Mine,mining,Subbituminous,24.1346,82.4264,Operating,3.92,Jaiprakash Power Ventures Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Amelia_(North)_coal_mine
+Amera Coal Mine,mining,Subbituminous,23.065899,83.049535,Operating,1.0,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Amera_OC_coal_mine
+Amlai Coal Mine,mining,Subbituminous,23.167675,81.59593,Operating,1.2,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Amlai_coal_mine
+Amlohri Coal Mine,mining,Subbituminous,24.134,82.593,Operating,16.18,Northern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Amlohri_coal_mine
+Amrapali Coal Mine,mining,Lignite,23.889479,85.00171,Operating,24.19,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Magadh_Amrapali_coal_mines
+Amritnaga Coal Mine,mining,Subbituminous,23.650069,87.071513,Operating,0.6,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Amritnaga_Coal_Mine
+Ananta Coal Mine,mining,Lignite,20.943609,85.163715,Operating,7.9,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ananta_coal_mine
+Ashoka Coal Mine,mining,Subbituminous,23.724268,85.037525,Operating,10.0,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ashoka_coal_mine
+ASP Coal Mine,mining,Bituminous,23.74133,86.4051593,Operating,0.709,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/ASP_Coal_Mine
+Badjna Coal Mine,mining,Subbituminous,23.800306,86.695665,Operating,0.45,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Badjna_coal_mine
+Bagdeva Coal Mine,mining,Subbituminous,22.455461,82.517654,Operating,0.25,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bagdeva_UG_coal_mine
+Bahula Coal Mine,mining,Subbituminous,23.654318,87.188096,Operating,0.25,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bahula_Coal_Mine
+Bajora North Coal Mine,mining,Subbituminous,23.45338,87.23919,Operating,2.2,West Bengal Power Development Corp Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Barjora_North_coal_mine
+Balaram Coal Mine,mining,Subbituminous,20.962009,85.178092,Operating,8.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Balaram_coal_mine
+Balgi Coal Mine,mining,Subbituminous,22.353611,82.61666,Operating,0.36,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Balgi_UG_coal_mine
+Ballarpur OC Coal Mine,mining,Subbituminous,19.832799,79.34613,Operating,0.6,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ballarpur_OC_Coal_Mine
+Ballarpur UG Coal Mine,mining,Subbituminous,19.84253529,79.3480377086428,Operating,0.6,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ballarpur_UG_Coal_Mine
+Balrampur Coal Mine,mining,Subbituminous,23.229703,83.010222,Operating,0.6,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Balrampur_UG_coal_mine
+Bangwar Coal Mine,mining,Subbituminous,23.151647,81.538768,Operating,0.6,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bangwar_coal_mine
+Bankola Coal Mine,mining,Subbituminous,23.659201,87.236639,Operating,0.3,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bankola_Coal_Mine
+Bansdeopur Coal Mine,mining,Bituminous,23.799105,86.325068,Operating,0.879,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Bansdeopur_Coal_Mine
+Bansra Coal Mine,mining,Subbituminous,23.642317,87.139259,Operating,0.7,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bansra_Coal_Mine
+Barjore Coal Mine,mining,Subbituminous,23.424232,87.285137,Operating,0.5,West Bengal Power Development Corporation [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Barjora_coal_mine
+Barmuri Coal Mine,mining,Subbituminous,23.782796,86.718731,Operating,0.9,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Barmuri_Coal_Mine
+Baroud Coal Mine,mining,Subbituminous,22.268463,83.345538,Operating,4.9,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Baroud_OC_coal_mine
+Barsingsar Coal Mine,mining,Lignite,27.829491,73.220464,Operating,2.1,NLC India Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Barsingsar_coal_mine
+Bartarai Coal Mine,mining,Subbituminous,23.136999,82.065634,Operating,0.47,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bartarai_coal_mine
+Basantimata Coal Mine,mining,Subbituminous,23.730779,86.756071,Operating,1.963,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Basantimata_Coal_Mine
+Bastacola Coal Mine,mining,Subbituminous,23.769756,86.41471,Operating,2.1,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Cluster_No._8_(BCCL)
+Basundhara (West) Coal Mine,mining,Lignite,22.059284,83.7304,Operating,5.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Basundhara_coal_mines
+Batura Coal Mine,mining,Lignite,23.209521,81.639831,Operating,3.0,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Batura_coal_mine
+Behraband Coal Mine,mining,Subbituminous,23.282233,82.093922,Operating,0.6,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Behraband_coal_mine
+Bejdih Coal Mine,mining,Subbituminous,23.6935,86.8753,Operating,0.1,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bejdiha_coal_mine
+Belgaon Coal Mine,mining,Subbituminous,20.329522,78.95774,Operating,0.27,Sunflag Iron and Steel Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Belgaon_Coal_Mine
+Bellora-Naigaon Coal Mine,mining,Subbituminous,19.976764,79.088501,Operating,1.2,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bellora-Naigaon_Mine
+Bhadra Coal Mine,mining,Subbituminous,23.189078,81.932398,Operating,0.18,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bhadra_coal_mine
+Bhanegaon Coal Mine,mining,Subbituminous,21.2685,79.1574,Operating,0.9,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bhanegaon_Coal_Mine
+Bhanora UG and OC Mine,mining,Subbituminous,23.73205251,87.0258146610999,Operating,0.6,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Bhanora_UG_and_OC_Mine
+Bhanora West UG Coal Mine,mining,Subbituminous,23.729521,86.993622,Operating,0.74,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bhanora_West_coal_mine
+Bharatpur Coal Mine,mining,Lignite,20.95753,85.128911,Operating,20.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bharatpur_coal_mine#Location
+Bhaskarpara Coal Mine,mining,Subbituminous,23.355536,82.751378,Operating,15.0,Prakash Industries Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bhaskarpara_coal_mine
+Bhatadi Coal Mine,mining,Subbituminous,20.05738,79.267357,Operating,1.5,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bhatadi_Mine
+Bhatgaon Coal Mine,mining,Subbituminous,23.37063,82.99223,Operating,1.5,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bhatgaon_coal_mine
+Bhavnagar Lignite Mine,mining,Lignite,21.67208367,72.23652471,Operating,2.2,Gujarat Mineral Development Corporation Limited [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bhavnagar_Lignite_Mine
+Bhubaneswari Coal Mine,mining,Lignite,20.961693,85.160099,Operating,30.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bhubaneswari_coal_mine
+Bhurkunda Coal Mine,mining,Subbituminous,23.657086,85.365226,Operating,1.75,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bhurkunda_coal_mines
+Bijari Coal Mine,mining,Subbituminous,22.2471,83.382797,Operating,2.25,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bijari_coal_mine
+Bijuri Coal Mine,mining,Subbituminous,23.259109,82.122784,Operating,0.48,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bijuri_coal_mine
+Bina Coal Mine,mining,Lignite,24.1483,82.7476,Operating,6.0,Northern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bina_coal_mine
+Block II (BOCP) Coal Mine,mining,Bituminous,23.783333,86.2,Operating,5.8,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Block_II_mines
+Block-B Coal Mine,mining,Lignite,24.17502419,82.56028175,Operating,8.0,Northern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Block_B_coal_mine
+Bokaro Opencast Coal Mine,mining,Subbituminous,23.787063,85.923633,Operating,0.6,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Bokaro_Opencast_coal_mine
+Bonjemehari Coal Mine,mining,Subbituminous,23.769704,86.877669,Operating,1.47,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bonjemehari_coal_mine
+Brahmadiha Coal Mine,mining,Bituminous,24.13618,86.319914,Operating,0.75,Andhra Pradesh Mineral Development Corp [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Brahmadiha_Coal_Mine
+Central Kajora Coal Mine,mining,Subbituminous,23.600612,87.187419,Operating,0.25,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Central_Kajora_coal_mine
+Chandragupta Coal Mine,mining,Lignite,23.9,85.03333,Operating,15.0,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Chandragupta_coal_mine
+Chapapur II Coal Mine,mining,Subbituminous,23.804826,86.675476,Operating,0.68,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Chapapur_II_mine
+Chapuikhas Colliery,mining,Subbituminous,23.6545,87.0449,Operating,0.06,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Chapuikhas_Colliery
+Chatti-Bariatu Coal Mine,mining,Subbituminous,24.0,85.36,Operating,7.0,NTPC Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Chatti-Bariatu_coal_mine
+Chhal Coal Mine,mining,Subbituminous,22.100202,83.110483,Operating,7.0,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Chhal_OC_coal_mine
+Chhatarpur-I Coal Mine,mining,Subbituminous,22.15,78.1,Operating,0.334,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Chhatarpur-I_Coal_Mine
+Chhinda Coal Mine,mining,Subbituminous,22.213831,78.843954,Operating,0.6,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Chhinda_coal_mine
+Chinakuri III Coal Mine,mining,Subbituminous,23.6853,86.8596,Operating,0.2,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Chinakuri_III_coal_mine
+Chirimiri Coal Mine,mining,Subbituminous,23.183958,82.336684,Operating,1.65,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Chirimiri_coal_mines
+Chitra East Coal Mine,mining,Subbituminous,24.11728746,86.8639348448008,Operating,2.48,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Chitra_coal_mine
+"Chora 7,9&10 Coal Mine",mining,Subbituminous,23.1917713,86.5147689,Operating,0.21,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,"https://www.gem.wiki/Chora_7,9%2610_Coal_Mine"
+Chora UG Coal Mine,mining,Subbituminous,23.672877,87.203167,Operating,0.1,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,"https://www.gem.wiki/Chora_Incline_and_Chora_7,_9,_%26_10_Coal_Mine"
+Chotia Coal Mine,mining,Subbituminous,22.780896,82.476655,Operating,1.4,Bharat Aluminium Company Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Chotia_OC_coal_mine
+Churcha RO Coal Mine,mining,Subbituminous,23.335952,82.519611,Operating,2.1,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Churcha_coal_mine
+Churi Coal Mine,mining,Subbituminous,23.679012,85.044766,Operating,0.81,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Churi_coal_mine
+CL Jambad Coal Mine,mining,Subbituminous,23.65457,87.197937,Operating,0.96,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/CL_Jambad_coal_mine
+D. Rayatwari Coal Mine,mining,Subbituminous,19.9598,79.3109,Operating,0.9,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/D._Rayatwari_Coal_Mine
+Dabor Coal Mine,mining,Subbituminous,23.789723,86.915206,Operating,2.3,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dabor_coal_mine
+Dakra Bukbuka Coal Mine,mining,Subbituminous,23.663881,85.000762,Operating,1.2,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dakra_Bukbuka_coal_mine
+Damini Coal Mine,mining,Subbituminous,23.141744,81.470502,Operating,0.48,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Damini_coal_mine
+Damoda Coal Mine,mining,Bituminous,23.68031,86.147729,Operating,1.17,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Damoda_coal_mine
+Dhankasa Coal Mine,mining,Subbituminous,22.294167,78.984444,Operating,1.2,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dhankasa_Coal_Mine
+Dhansar Coal Mine,mining,Bituminous,23.773116,86.399933,Operating,0.99,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Dhansar_coal_mine
+Dhelwadih Coal Mine,mining,Subbituminous,22.461705,82.563349,Operating,0.33,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dhelwadih_coal_mine
+Dhemonmain Coal Mine,mining,Subbituminous,23.7046,86.9087,Operating,0.21,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dhemonmain_coal_mine
+Dhirauli Coal Mine,mining,Subbituminous,23.936115,82.317817,Operating,6.5,Stratatech Mineral Resources Pvt Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Dhirauli_coal_mine
+Dhori- Khas Coal Mine,mining,Subbituminous,23.781699,86.013284,Operating,0.166,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dhori-Khas_Coal_Mine
+Dhuptala Coal Mine,mining,Lignite,19.82303037,79.3396561629762,Operating,1.35,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dhuptala_Coal_Mine
+Dinesh (Makardhokra-III) Coal Mine,mining,Subbituminous,20.8764,79.2235,Operating,4.5,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dinesh_Mine
+Dipka Coal Mine,mining,Lignite,22.345077,82.544192,Operating,35.0,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dipka_coal_mine
+Dubeshwari UG Coal Mine,mining,Subbituminous,23.660393,86.821519,Operating,0.18,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dubeshwari_coal_mine
+Dudhichua Coal Mine,mining,Subbituminous,24.16474,82.67287,Operating,25.5,Northern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dudhichua_coal_mine
+Dulanga Coal Mine,mining,Lignite,21.951705,83.807564,Operating,7.0,NTPC Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Dulanga_coal_mine
+Durgapur Coal Mine,mining,Subbituminous,20.0081,79.2989,Operating,2.3,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Durgapur_Mine
+East Bassuriya Coal Mine,mining,Bituminous,23.800946,86.371018,Operating,1.2,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/East_Bassuriya_coal_mine
+Ena Coal Mine,mining,Subbituminous,23.7568,86.4094,Operating,,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Cluster_No._7_(BCCL)
+Gangaramchak & Gangaramchak-Bhadulia Coal Mine,mining,Lignite,23.81116575,87.2106843190803,Operating,2.25,West Bengal Power Development Corp Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gangaramchak_%26_Gangaramchak-Bhadulia_coal_mine
+Gare Palma II Coal Mine,mining,Subbituminous,22.11866,83.53358,Operating,23.6,Maharashtra State Power Generation Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Gare_Palma_II_coal_mine
+Gare Palma III Coal Mine,mining,Lignite,22.11866,83.53358,Operating,6.5,Chhattisgarh State Power Generation Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Gare_Palma_III_coal_mine
+Gare Palma IV 1 Coal Mine,mining,Lignite,22.11866,83.53358,Operating,,Jindal Steel & Power Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gare_Palma_IV_1_Coal_Mine
+Gare Palma IV 2 & 3 Coal Mine,mining,Subbituminous,22.1199,83.5362,Operating,7.0,Jindal Power Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gare_Palma_IV/2_%26_IV/3
+Gare Palma IV 2 & 3 OC Mine,mining,Subbituminous,22.13081284,83.5203883717038,Operating,4.5,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Gare_Palma_IV_2_%26_3_OC_Mine
+Gare Palma IV 4 Coal Mine,mining,Subbituminous,22.15,83.5415,Operating,0.9,Hindalco Industries Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gare_Palma_IV_4_Coal_Mine
+Gare Palma IV 6 Coal Mine,mining,Subbituminous,22.11866,83.53358,Operating,4.0,Jindal Steel & Power Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gare_Palma_IV_6_Coal_Mine
+Gare Palma IV 7 Coal Mine,mining,Lignite,22.11866,83.53358,Operating,1.8,Sarda Energy & Minerals Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gare_Palma_IV_7_Coal_Mine
+Gare Palma IV 8 Coal Mine,mining,Lignite,22.11866,83.53358,Operating,0.9,Ambujia Cements Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gare_Palma_IV_8_Coal_Mine
+Garjanbahal Coal Mine,mining,Subbituminous,22.034519,83.74266,Operating,20.21,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Garjanbahal_coal_mine
+Gayatri Coal Mine,mining,Subbituminous,23.1097,82.9051,Operating,0.6,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gayatri_coal_mine
+Gevra Coal Mine,mining,Subbituminous,22.336312,82.545748,Operating,70.0,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gevra_coal_mine
+Ghogha-Surka Lignite Mine,mining,Lignite,21.66707821,72.2052325421232,Operating,2.25,Gujarat Power Corporation Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ghogha-Surka_Lignite_Mine
+Ghonsa Coal Mine,mining,Subbituminous,19.9647,78.8326,Operating,0.6,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ghonsa_Coal_Mine
+Gidi - A Open Cast Coal Mine,mining,Subbituminous,23.691251,85.359806,Operating,0.9,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gidi_A_coal_mine
+Godavarikhani Coal Mines,mining,Subbituminous,18.745558,79.508334,Operating,4.0,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Godavarikhani_UG_Clusters_coal_mine
+Gokul Coal Mine,mining,Subbituminous,20.6697222,79.29638889,Operating,1.88,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gokul_Mine
+Gondegaon-Ghatrohana Coal Mine,mining,Subbituminous,21.26629731,79.19242476,Operating,3.5,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gondegaon_mine
+Gondudih Khas Kusunda Coal Mine,mining,Bituminous,23.804,86.3773,Operating,2.6,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gondudih_Khas_Ksunda_coal_mine
+Gopalichak Coal Mine,mining,Bituminous,23.77983,86.343243,Operating,,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gopalichak_coal_mine
+Gopalji Kaniha Coal Mine,mining,Subbituminous,21.095844,85.079292,Operating,14.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kaniha_coal_mine
+Gopinathpur–Shampur A UG & OC Mine,mining,Subbituminous,23.75017066,86.7441905060008,Operating,0.4,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Gopinathpur–Shampur_A_UG_&_OC_Mine
+Gotitoria East & Gotitoria West Coal Mine,mining,Subbituminous,22.733254,78.813088,Operating,0.3,Boulder Stone Mart [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gotitoria_East_%26_Gotitoria_West_Coal_Mine
+Gourandih Begunia Coal Mine,mining,Subbituminous,23.805,87.02553,Operating,3.5,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gourandih_Begunia_Coal_Mine
+Gouranoih Expansion Mine,mining,Subbituminous,23.8153,86.9947,Operating,,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gouranoih_Expansion_Mine
+Gouri Deep Coal Mine,mining,Subbituminous,19.7741,79.2902,Operating,0.6,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gouri_Deep_Coal_Mine
+Gouthamkhani Coal Mine,mining,Subbituminous,17.2615,80.3738,Operating,3.0,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gouthamkhani_coal_mine
+Govindpur Coal Mine,mining,Subbituminous,23.803195,85.866553,Operating,0.9,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Govindpur_coal_mine
+Gurha East Lignite Mine,mining,Lignite,27.52314,72.51259,Operating,1.0,VS Lignite Power Pvt Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Gurha_East_Lignite_Mine
+Haldibari Coal Mine,mining,Subbituminous,23.223784,82.149577,Operating,0.6,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Haldibari_Coal_Mine
+Hariajam Coal Mine,mining,Subbituminous,23.792582,86.690235,Operating,0.08,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Hariajam_Coal_Mine
+Hingula-II Coal Mine,mining,Lignite,20.966051,85.01637,Operating,15.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Hingula_II_coal_mine
+Hirakhand Bundia Incline Mine,mining,Subbituminous,21.7819,83.9151,Operating,0.9,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Hirakhand_Bundia_Incline_Mine
+Hura C Coal Mine,mining,Subbituminous,25.051986,87.832422,Operating,3.0,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Hura_C_Coal_Mine
+IK 1A Coal Mine,mining,Subbituminous,18.8063,79.5208,Operating,0.54,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/IK_1A_Coal_Mine
+Indaram Coal Mine Project,mining,Lignite,18.775,79.46666667,Operating,1.5,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Indaram_coal_mine
+Integrated Baranj Mine,mining,Subbituminous,20.150267,79.101211,Operating,3.4,Karnataka Power Corporation Limited [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Integrated_Baranj_Mine
+"Integrated Belpahar, Lakhanpur, Lilari Coal Mine",mining,Lignite,21.771004,83.854397,Operating,40.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Integrated_Belpahar-Lakhanpur-Lilari_Project
+Itapara Coal Mine,mining,Lignite,23.7879,86.9786,Operating,3.5,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Itapara_coal_mine
+Jagannath Coal Mine,mining,Lignite,20.949857,85.147665,Operating,8.35,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jagannath_coal_mine
+Jagannathpur Coal Mine,mining,Subbituminous,23.3704,83.215,Operating,4.2,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jagannathpur_coal_mine
+Jalipa Lignite Block Coal Mine,mining,Subbituminous,25.5138,71.2436,Operating,,Barmer Lignite Mining Company Limited [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jalipa_mine
+Jamkhani Coal Mine,mining,Subbituminous,22.105539,83.592888,Operating,2.6,Vedanta Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Jamkhani_mine
+Jampali Coal Mine,mining,Subbituminous,22.2713889,83.2811,Operating,3.0,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jampali_coal_mine
+Jarangdih Coal Mine,mining,Subbituminous,23.775944,85.911907,Operating,2.08,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jarangdih_coal_mine
+Jayant Coal Mine,mining,Subbituminous,24.1583,82.6546,Operating,30.0,Northern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jayant_coal_mine
+Jhanjra Coal Mine,mining,Subbituminous,23.665321,87.313146,Operating,5.0,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jhanjra_coal_mine
+Jharkhand Coal Mine,mining,Subbituminous,23.798166,85.586162,Operating,2.0,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Jharkhand_coal_mine
+Jhilmili Coal Mine,mining,Subbituminous,23.350314,82.728807,Operating,0.5,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jhilmili_UG_coal_mine
+Jhingurda Coal Mine,mining,Subbituminous,24.212132,82.698427,Operating,2.4,Northern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jhingurda_coal_mine
+Jhiria UG Coal Mine,mining,Subbituminous,22.0101504,82.6666331,Operating,0.33,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Jhiria_UG_Coal_Mine
+JK Nagar Coal Mine,mining,Subbituminous,23.650069,87.071513,Operating,0.42,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/JK_Nagar_coal_mine
+Jogidih Coal Mine,mining,Bituminous,23.808718,86.257656,Operating,0.317,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jogidih_coal_mine
+Junad Coal Mine,mining,Subbituminous,20.058148,79.052317,Operating,1.2,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Junad_Deep_OC_Mine
+JVR I & II Coal Mine,mining,Subbituminous,17.20352062,80.7983315146329,Operating,12.0,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/JVR_I_%26_II_Coal_Mine
+K. D. H. Coal Mine,mining,Subbituminous,23.663881,85.000762,Operating,3.0,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/K.D.H._coal_mine
+Kabribad Coal Mine,mining,Subbituminous,24.1572,86.3006,Operating,0.5,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bokaro_and_Kargali_coal_mines
+Kakatiya Khani Opencast-3 Coal Mine,mining,Subbituminous,18.434261,79.857403,Operating,2.5,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Kakatiya_Khani_Opencast-3_Coal_Mine
+Kakatiya Khani-1 & 1A Coal Mine,mining,Subbituminous,18.465613,79.840804,Operating,0.6,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/KTK-1_coal_mine
+Kakatiya Khani-5 &5A Coal Mine,mining,Subbituminous,18.433594,79.858582,Operating,0.6,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/KTK-5_coal_mine
+Kakatiya Khani-6 & 6A Incline,mining,Subbituminous,18.465613,79.840804,Operating,0.312,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/KTK-6_coal_mine
+Kakri Coal Mine,mining,Subbituminous,24.1709,82.7562,Operating,4.0,North Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kakri_coal_mine
+Kalidaspur Coal Mine,mining,Subbituminous,23.650069,87.071513,Operating,0.135,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Kalidaspur_coal_mine
+Kalyani Khani Coal Mine,mining,Subbituminous,19.01,79.4651,Operating,1.4,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kalyani_Khani_coal_mine
+Kanchan Coal Mine,mining,Subbituminous,23.345851,80.871272,Operating,0.75,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kanchan_coal_mine
+Kankanee Coal Mine,mining,Bituminous,23.795532,86.330604,Operating,1.19,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Kankanee_coal_mine
+Kapasara Coal Mine,mining,Subbituminous,23.7585,86.7545,Operating,,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Kapasara_Coal_Mine
+Kapurdi Coal Mine,mining,Lignite,25.9423,71.344253,Operating,4.9,Barmer Lignite Mining Company Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kapurdi_mine#Mine_Details
+Karma Coal Mine,mining,Subbituminous,23.6505,85.5659,Operating,0.9,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Karma_coal_mine
+Karo Coal Mine,mining,Bituminous,23.791654,85.973236,Operating,2.7,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bokaro_and_Kargali_coal_mines
+Kasipet-1 UG Coal Mine,mining,Subbituminous,19.03497042,79.4300982070701,Operating,0.54,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kasipet_coal_mine
+Kasipet-2 Incline Mine,mining,Subbituminous,19.03497042,79.4300982070701,Operating,0.47,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kasipet-2_Incline_Mine
+Kathara Coal Mine,mining,Subbituminous,23.775944,85.911907,Operating,1.5,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Kathara_coal_mine
+Katkona Coal Mine,mining,Subbituminous,23.359829,82.680745,Operating,1.4,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Katkona_UG_coal_mine
+Kerendari Coal Mine,mining,Subbituminous,23.9125,85.0875,Operating,6.0,NTPC Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Kerendari_coal_mine
+Ketki Coal Mine,mining,Subbituminous,23.114627,82.886721,Operating,0.42,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ketki_UG_coal_mine
+Khadia Coal Mine,mining,Subbituminous,24.1318,82.7144,Operating,10.0,Northern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Khadia_coal_mine
+Khadsaliya Lignite Mine,mining,Lignite,21.6259,72.2397,Operating,0.4,GHCL Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Khadsaliya_Lignite_Mine
+Khairagura Coal Mine,mining,Subbituminous,19.2555556,79.26666667,Operating,3.0,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Khairagura_coal_mine
+Khairaha Coal Mine,mining,Subbituminous,23.160448,81.461364,Operating,0.6,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Khairaha_UG_Coal_Mine
+Khandra Coal Mine,mining,Subbituminous,23.641359,87.222658,Operating,0.1,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Khandra_coal_mine
+Kharkharee Colliery,mining,Bituminous,23.777233,86.239083,Operating,0.12,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kharkharee_Colliery
+Khas Kajora Coal Mine,mining,Subbituminous,23.627811,87.19499,Operating,0.3,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Khas_Kajora_coal_mine
+Khoodia Coal Mine,mining,Subbituminous,23.773738,86.729687,Operating,0.035,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Khoodia_OC_Patch_coal_mine
+Khottadih UG & OC Mine,mining,Subbituminous,23.7244,87.233,Operating,2.0,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Khotadih_Coal_Mine
+Kistaram Coal Mine,mining,Subbituminous,17.207584,80.801854,Operating,1.8,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kistaram_coal_mine
+KK 5 Inc Coal Mine,mining,Subbituminous,18.8278,79.4833,Operating,1.75,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/KK_5_Inc_Coal_Mine
+Kolarpimpri Coal Mine,mining,Subbituminous,20.0833,79.0333,Operating,1.2,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kolarpimpri_Coal_Mine
+Konar Coal Mine,mining,Bituminous,24.155314,86.303182,Operating,5.0,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Konar_Coal_Mine
+Kondapuram Coal Mine,mining,Subbituminous,17.9377778,79.3480555555555,Operating,0.7,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kondapuram_coal_mine
+Kotre Basantpur Pachmo Coal Mine,mining,Bituminous,23.83103,85.589764,Operating,4.0,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Kotre_Basantpur_Pachmo_Coal_Mine
+Koyagudem II Coal Mine,mining,Subbituminous,17.62564676,80.4867313200491,Operating,4.8,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Koyagudem_II_Coal_Mine
+Krishnashila Coal Mine,mining,Lignite,24.12435195,82.74250031,Operating,7.5,Northern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Krishnashila_coal_mine
+Kujama Coal Mine,mining,Bituminous,23.7315727,86.4244223,Operating,0.78,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kujama_Coal_Mine
+Kulda Coal Mine,mining,Lignite,22.033526,83.734846,Operating,16.8,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kulda_coal_mine
+Kumardhubi Coal Mine,mining,Subbituminous,23.7761,86.7274,Operating,0.1,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Kumardhubi_coal_mine
+Kumardihi A Coal Mine,mining,Subbituminous,23.682205,87.276089,Operating,0.2,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kumardihi_coal_mine
+Kumda 7&8 Coal Mine,mining,Subbituminous,23.2074,83.0056,Operating,0.6,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Kumda_7%268_Coal_Mine
+Kunustoria Coal Mine,mining,Subbituminous,23.649796,87.13004,Operating,0.6,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kunustoria_coal_mine
+Kurasia Coal Mine,mining,Subbituminous,23.178488,82.368221,Operating,0.5,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kurasia_UG_coal_mine
+Kusmunda Coal Mine,mining,Lignite,22.332635,82.666666,Operating,75.0,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kusmunda_coal_mine
+Kuya Coal Mine,mining,Subbituminous,23.7363,86.4498,Operating,2.8,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Kuya_Coal_Mine
+Lajkura Coal Mine,mining,Subbituminous,21.814345,83.901262,Operating,3.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Lajkura_coal_mine
+Lingaraj Coal Mine,mining,Lignite,20.960432,85.200747,Operating,20.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Lingaraj_coal_mine
+Lower Kenda Coal Mine,mining,Subbituminous,23.650379,87.183894,Operating,0.15,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/New_Kenda_mines
+Madhabpur Coal Mine,mining,Subbituminous,23.625728,87.176051,Operating,2.12,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Madhabpur_coal_mine
+Madhaipur Coal Mine,mining,Subbituminous,23.706827,87.35001,Operating,0.65,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Madhaipur_coal_mine
+Magadh Coal Mine,mining,Lignite,23.889479,85.00171,Operating,20.0,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Magadh_Amrapali_coal_mines
+Mahabir Narainkuri UG & OC Mine,mining,Subbituminous,23.6225279,87.1085407,Operating,2.88,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Mahabir_Narainkuri_UG_&_OC_Mine
+Mahadevpuri Coal Mine,mining,Subbituminous,22.1806,78.7698,Operating,0.25,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Mahadevpuri_Coal_Mine
+Maheshpur Coal Mine,mining,Bituminous,23.786246,86.25564,Operating,0.091,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Maheshpur_coal_mine
+Makardhokra I Coal Mine,mining,Subbituminous,20.865366,79.285604,Operating,3.0,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Makardhokra-I_Opencast_Coal_Mine_Project
+Mangrol Valia Coal Mine,mining,Lignite,21.4167,73.1,Operating,3.0,Gujarat Industries Power Company [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Mangrol_Valia_coal_mine
+Manikpur Coal Mine,mining,Subbituminous,22.32047888,82.71690602,Operating,4.0,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Manikpur_coal_mine
+Manoerboni & South Samlaamalgateo Coal Mine,mining,Subbituminous,23.7112,87.314,Operating,0.28,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Manoerboni_%26_South_Samlaamalgateo_Coal_Mine
+Manoharpur Coal Mine,mining,Subbituminous,21.931111,83.744722,Operating,16.0,Odisha Power Generation Corp [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Manoharpur_coal_mine
+Manuguru Opencast Coal Mine,mining,Subbituminous,17.976,80.8346,Operating,3.15,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Manuguru_Opencast_Coal_Mine
+Maohusudanpur 7 Pit & Incline Coal Mine,mining,Subbituminous,23.6338,87.2037,Operating,0.07,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Maohusudanpur_7_Pit_%26_Incline_Coal_Mine
+Marki Mangli III Coal Mine,mining,Subbituminous,19.83938305,78.8044863231452,Operating,0.21,B.S. Ispat Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Marki_Mangli_III_Coal_Mine
+Mata No Madh Lignite Coal Mine,mining,Lignite,23.510726,68.958531,Operating,,Gujarat Mineral Development Corporation Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Mata_No_Madh_Lignite_Mine
+Meera Coal Mine,mining,Subbituminous,23.186224,81.986798,Operating,0.6,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Meera_coal_mine
+Methani Coal Mine,mining,Subbituminous,23.6946,86.8902,Operating,0.2,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Methani_coal_mine
+Mohanpur Coal Mine,mining,Subbituminous,23.786678,86.950299,Operating,2.5,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Mohanpur_coal_mine
+Moher Amlohri Coal Mine,mining,Subbituminous,24.135,82.599444,Operating,20.0,Sasan Power Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Moher-Amlori_Extension_coal_mine
+Mudidih Coal Mine,mining,Subbituminous,23.74128,86.35299,Operating,2.019,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Mudidih_Coal_Mine
+Mungoli Nirguda Coal Mine,mining,Lignite,19.894046,79.115559,Operating,5.25,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Mugoli_Nirguda_Mine
+Muraidi Phularitand Coal Mine,mining,Subbituminous,23.781738,86.227241,Operating,,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Phularitand_mine
+N.T.S.T. Jeenagora Coal Mine,mining,Subbituminous,23.7028,86.4403,Operating,7.8,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/North_Tisra_South_Tisra_(NTST)_coal_mines
+Naba Jambad Project,mining,Subbituminous,23.643161,87.182493,Operating,1.07,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Naba_Jambad_Project
+Naheriya Coal Mine,mining,Subbituminous,22.28121111,78.9892462290484,Operating,0.54,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Naheriya_Coal_Mine
+Naini Coal Mine,mining,Subbituminous,21.055833,84.882222,Operating,10.0,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Naini_coal_mine
+Nakrakonda Coal Mine,mining,Subbituminous,23.679182,87.287229,Operating,4.12,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Nakrakonda_coal_mine
+Namchik Namphuk Coal Mine,mining,Lignite,27.438757,95.996238,Operating,0.2,Coal Pulz Pvt Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Namchik_Namphuk_Coal_Mine
+Nandira Coal Mine,mining,Subbituminous,20.92738,85.124509,Operating,0.33,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Nandira_Coal_Mine
+Narsamunda Coal Mine,mining,Subbituminous,23.6901,86.9149,Operating,0.19,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Narsamunda_coal_mine
+Nawapara Coal Mine,mining,Subbituminous,23.3666667,83.0980555555555,Operating,0.36,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Nawapara_coal_mine
+Nawrozabad Coal Mine,mining,Subbituminous,23.356253,80.973834,Operating,0.45,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Nowrozabad_coal_mine
+NCPH Coal Mine,mining,Subbituminous,23.194568,82.348931,Operating,0.9,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/NCPH_coal_mine
+New Kenda Coal Mine,mining,Subbituminous,23.6657,87.1624,Operating,1.25,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/New_Kenda_mines
+New Majri Coal Mine,mining,Subbituminous,20.13479,79.021365,Operating,3.0,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/New_Majri_UG_to_OC_Mine
+New Majri II A Coal Mine,mining,Subbituminous,20.119062,79.032223,Operating,2.0,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/New_Majri_II_A_OC_Mine
+Neyveli I A Coal Mine,mining,Lignite,11.57352,79.51781,Operating,4.9,NLC India Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Neyveli_I_coal_mine
+Neyveli I Coal Mine,mining,Lignite,11.571182,79.503738,Operating,10.5,NLC India Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Neyveli_I_coal_mine
+Neyveli II Coal Mine,mining,Lignite,11.520268,79.475537,Operating,15.0,NLC India Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Neyveli_II_coal_mine
+Nichitpur Coal Mine,mining,Bituminous,23.800305,86.356391,Operating,1.794,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Nichitpur_coal_mine
+Nigahi Coal Mine,mining,Subbituminous,24.135,82.599444,Operating,15.0,Northern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Nigahi_Coal_Mine
+Niljai Coal Mine,mining,Subbituminous,19.9957,79.0825,Operating,4.5,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Niljai_Coal_Mine
+Nimcha Coal Mine,mining,Subbituminous,23.650069,87.071513,Operating,1.43,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Nimcha_coal_mine
+Ningah Coal Mine,mining,Subbituminous,23.6743,87.0333,Operating,0.36,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ningah_coal_mine
+Ningah OC Coal Mine,mining,Subbituminous,23.6742772,87.0307276,Operating,1.04,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Ningah_OC_Coal_Mine
+Nirsha OC Patch Coal Mine,mining,Subbituminous,23.784425,86.718939,Operating,0.4,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Nirsha_OC_Patch_coal_mine
+North Searsole (East) Coal Mine,mining,Subbituminous,23.66169,87.114053,Operating,1.5,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/North_Searsole_(East)_coal_mine
+"North Tisra, South Tisra Coal Mine",mining,Lignite,23.729089,86.4431996,Operating,5.1,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/North_Tisra_South_Tisra_(NTST)_coal_mines
+North Urimari Birsa Coal Mine,mining,Subbituminous,23.701948,85.293923,Operating,4.5,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/North_Urimari_Birsa_coal_mine
+Chasnala Coal Mine,mining,Bituminous,23.658882,86.449764,Operating,1.2,Steel Authority of India Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Chasnala_coal_mine
+Jharia Coal Mine,mining,Bituminous,23.708161,86.400024,Operating,0.6,Tata Steel [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jharia_coal_mine
+Orient Mine 1 & 2,mining,Lignite,21.833822,83.919045,Operating,0.6,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Orient_Mine_1_%26_2
+P. B. UG Coal Mine,mining,Subbituminous,23.75542241,86.3636460480271,Operating,0.9,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/PB_UG_coal_mine
+Pachhwara (North) Coal Mine,mining,Lignite,24.474744,87.476437,Operating,15.0,West Bengal Power Development Corp Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Pachhwara_(North)_coal_mine
+Pachhwara Central Coal Mine,mining,Subbituminous,24.53941629,87.4480818528771,Operating,7.0,Punjab State Power Corporation [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Pachhwara_(Central)_coal_mine
+Pakri Barwadih Coal Mine,mining,Lignite,23.881918,85.233799,Operating,18.0,NTPC Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Pakri_Barwadih_Mine
+Pali Coal Mine,mining,Subbituminous,23.5863,80.7501,Operating,0.5,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Pali_Coal_Mine
+Pandaveswar Dalurband Coal Mine,mining,Subbituminous,23.697576,87.253978,Operating,2.25,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Pandaveswar_Dalurband_Coal_Mine
+Pandavpara Coal Mine,mining,Subbituminous,23.350314,82.728807,Operating,0.5,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Pandavpara_UG_coal_mine
+Paoni-Il Coal Mine,mining,Subbituminous,19.82705027,79.25526677,Operating,3.25,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Pauni-II_coal_mine
+Parascole East & West Coal Mine,mining,Subbituminous,23.645281,87.186307,Operating,0.54,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Parascole_East_%26_West_coal_mine
+Parasea Belbaid Coal Mine,mining,Subbituminous,23.6040321,87.1144061,Operating,2.07,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Parasea_Belbaid_Coal_Mine
+Parbelia Coal Mine,mining,Subbituminous,23.677978,86.826699,Operating,0.19,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Parbelia_coal_mine
+Parej East Coal Mine,mining,Subbituminous,23.798166,85.586162,Operating,1.4,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Parej_East_coal_mine
+Parsa East And Kanta Basan Coal Mine,mining,Lignite,22.83795,82.81401,Operating,,Rajasthan Rajya Vidyut Utpadan Nigam Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Parsa_East_and_Kanta_Basan_coal_mine
+Patansaongi Coal Mine,mining,Subbituminous,21.32306943,79.0449875729272,Operating,0.3,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Patansaongi_Coal_Mine
+Patmohana Coal Mine,mining,Subbituminous,23.6853,86.8903,Operating,0.12,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Patmohana_coal_mine
+Penganga Coal Mine,mining,Subbituminous,19.862222,79.139166,Operating,4.5,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Pengagna_coal_mine
+Piparia Coal Mine,mining,Subbituminous,23.508797,80.867107,Operating,0.24,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Piparia_coal_mine
+Prakasham Khani OC Coal Mine,mining,Subbituminous,17.94321332,80.7782101383763,Operating,10.45,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Prakasham_Khani_coal_mines
+Purnadih Coal Mine,mining,Subbituminous,23.7083,84.9861,Operating,2.14,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/North_Karanpura_coal_mines
+PVK-5 Coal Mine,mining,Subbituminous,17.51172416,80.6715195571672,Operating,0.825,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Padmavathi_Khani_coal_mine
+Rajapur-South Jharia Coal Mine,mining,Bituminous,23.74879601,86.42139246,Operating,2.56,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Rajapur-South_Jharia_coal_mine
+Rajgamar Coal Mine,mining,Subbituminous,22.390649,82.824423,Operating,0.45,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Rajgamar_UG_coal_mine
+Rajhara North-Central-Eastern Coal Mine,mining,Subbituminous,22.161597,84.04671,Operating,0.6,Fairmine Carbons [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Rajhara_North-Central-Eastern_Coal_Mine
+Rajmahal Coal Mine,mining,Subbituminous,25.038,87.3538,Operating,23.8,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Rajmahal_coal_mines
+Rajnagar Coal Mine,mining,Subbituminous,23.208097,82.123782,Operating,1.35,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Rajnagar_coal_mine
+Rajpardi Lignite Mine,mining,Lignite,21.70897856,73.2299494510996,Operating,,Gujarat Mineral Development Corporation Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Rajpardi_Lignite_Mine
+Rajpura Coal Mine,mining,Subbituminous,23.75873451,86.7731740985943,Operating,0.15,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Rajpura_coal_mine
+Rajrappa Coal Mine,mining,Subbituminous,23.615,85.682,Operating,2.2,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Rajrappa_coal_mine
+Rajur-Bhandewada Coal Mine,mining,Subbituminous,20.11356,78.896,Operating,0.21,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/RajurBhandewada_Coal_Mine
+Ramagundam I Coal Mine,mining,Subbituminous,18.666357,79.539274,Operating,4.0,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ramagundam_I_coal_mine
+Ramagundam II Coal Mine,mining,Subbituminous,18.6782,79.5406,Operating,4.0,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Ramagundam_II_coal_mine
+Ramagundam III Coal Mine,mining,Subbituminous,18.6976,79.5352,Operating,9.52,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ramagundam_III_coal_mine
+Ramkrishnapur Coal Mine,mining,Subbituminous,18.9030556,79.46583333,Operating,2.6,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ramakrishnapura_coal_mine
+Ramnagar Coal Mine,mining,Subbituminous,23.756027,86.835903,Operating,,Steel Authority of India Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ramnagar_coal_mine
+Rani Atari Coal Mine,mining,Subbituminous,22.86476,82.2987,Operating,0.48,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Rani_Atari_UG_coal_mine
+New Akashkinaree Coal Mine,mining,Bituminous,23.802565,86.278261,Operating,1.47,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/New_Akashkinaree_coal_mine
+Ravindrakhani-5 Coal Mine,mining,Subbituminous,18.88,79.5022222222222,Operating,0.5,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ravindrakhani-5_coal_mine
+Ravindrakhani-6 Coal Mine,mining,Subbituminous,18.8647222,79.5113888888888,Operating,0.5,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ravindrakhani-6_coal_mine
+Ravindrakhani-7 Coal Mine,mining,Subbituminous,18.8716667,79.5205555555555,Operating,0.6,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ravindrakhani-7_coal_mine
+Ravindrakhani-NT Coal Mine,mining,Subbituminous,18.8411111,79.2166666666666,Operating,0.9,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ravindra_Khani_New_Tech_coal_mine
+Rehar Coal Mine,mining,Subbituminous,23.101101,82.927943,Operating,0.31,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Rehar_coal_mine
+Religara Coal Mine,mining,Subbituminous,23.8617,85.5569,Operating,0.589,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Argada_coal_mines
+Rohini Coal Mine,mining,Subbituminous,23.685074,84.989074,Operating,2.3,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/North_Karanpura_coal_mines
+Samleswari Coal Mine,mining,Lignite,21.805789,83.903847,Operating,15.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ib_Valley_coal_mines
+Saoner Coal Mine,mining,Subbituminous,21.358103,78.930266,Operating,0.9,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Saoner_coal_mine
+Saraipali Coal Mine,mining,Subbituminous,22.35732,82.296358,Operating,1.96,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Saraipalli_OC_coal_mine
+Sarisatolli Coal Mine,mining,Subbituminous,23.799677,87.045467,Operating,2.7,RPSG Group [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Sarisatolli_coal_mine
+Sasti OC Coal Mine,mining,Subbituminous,19.81311025,79.3183321,Operating,2.5,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Sasti_Expansion_OC_Mine
+Satgram Coal Mine,mining,Subbituminous,23.6827,87.0703,Operating,0.75,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Satgram_coal_mine
+Selected Dhori OCP Mine,mining,Subbituminous,23.775,85.5417,Operating,2.25,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bokaro_and_Kargali_coal_mines
+Sendra Bansjora Coal Mine,mining,Bituminous,23.793355,86.35049,Operating,2.34,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Sendra_Bansjora_coal_mine
+Shankarpur Coal Mine,mining,Subbituminous,23.66654149,87.2049161775983,Operating,0.5,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Shankarpur_Coal_Mine
+Shanthikhani Coal Mine,mining,Subbituminous,19.0177778,79.5108333333333,Operating,0.9,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Shanthikhani_coal_mine
+Sharda Coal Mine,mining,Subbituminous,23.208242,81.589781,Operating,0.6,South Eastern Coalfields Ltd [50.00%]; Western Coalfields Ltd [50.00%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Sharda_coal_mine
+Sheetaldhara-Kurja and Kapidhara Coal Mines,mining,Subbituminous,23.239816,82.112069,Operating,2.16,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Sheetaldhara_Kapildhara_coal_mine
+Shiwani Coal Mine,mining,Subbituminous,23.3498,83.0743,Operating,0.6,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Shiwani_Coal_Mine
+Shyamsundarpur Coal Mine,mining,Subbituminous,23.648263,87.257514,Operating,1.59,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Shyamsundarpur_coal_mine
+Sial Gjogri Coal Mine,mining,Bituminous,22.192428,78.77264,Operating,0.3,Birla Corporation [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Sial_Gjogri_mine
+Siarmal Coal Mine,mining,Lignite,22.043469,83.733619,Operating,10.0,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Siarmal_coal_mine
+Siduli Coal Mine,mining,Subbituminous,23.649929,87.2091,Operating,2.32,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Siduli_coal_mine
+Sikni Coal Mine,mining,Bituminous,23.722988,84.611313,Operating,,Jharkhand State Mineral Development Corporation Limited (JSMDCL) [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Sikni_coal_mine
+Silewara Colliery,mining,Subbituminous,21.2990357,79.12341847,Operating,0.6,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Silewara_Colliery
+Singhali Coal Mine,mining,Subbituminous,22.440833,82.567983,Operating,0.42,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Singhali_UG_coal_mine
+Singhori Coal Mine,mining,Subbituminous,21.276666,79.1275,Operating,0.9,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Singhori_OC_Mine
+Sirka Coal Mine,mining,Subbituminous,23.691032,85.355135,Operating,1.25,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Sirka_coal_mine
+Sonepur Bazari Coal Mine,mining,Lignite,23.688231,87.223763,Operating,14.0,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Sonepur_Bazari_mine
+Srirampur-II Coal Mine,mining,Subbituminous,18.8177778,79.48055556,Operating,2.7,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Srirampur_OC-II_coal_mine
+Srirampur-III & III A Coal Mine,mining,Subbituminous,18.75,79.25,Operating,0.4,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Srirampur-3%263A_Incline_coal_mine
+Suliyari Coal Mine,mining,Subbituminous,23.927656,82.319079,Operating,6.0,AP Mineral Development Corp [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Suliyari_Coal_Mine
+Tadicherla Coal Mine,mining,Subbituminous,18.523763,79.749677,Operating,2.5,Telangana State Power Generation Corporation Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Tadicherla_Mines
+Tadkeshwar Lignite Mine,mining,Lignite,21.357159,73.06986,Operating,,Gujarat Mineral Development Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Tadkeshwar_Lignite_Mine
+Takli-Jena-Bellora (North & South) Coal Mines,mining,Lignite,20.180728,79.083289,Operating,1.2,Aurobindo Reality and Infrastructure [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Takli-Jena-Bellora_(North_%26_South)_coal_mines
+Talabira II & III Coal Mines,mining,Subbituminous,21.734804,83.989432,Operating,20.0,NLC India Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Talabira_coal_mines
+Talaipalli Coal Mine,mining,Subbituminous,22.17758,83.355201,Operating,18.72,NTPC Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Talaipalli_coal_mine
+Talcher UG Coal Mine,mining,Subbituminous,20.962009,85.178092,Operating,0.36,Mahanadi Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Talcher_coal_mines
+Tandsi Coal Mine,mining,Bituminous,22.185722,78.3225962736493,Operating,0.6,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Tandsi_Coal_Mine
+Tapin Coal Mine,mining,Subbituminous,23.798166,85.586162,Operating,1.95,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Tapin_coal_mine
+Tapin South Coal Mine,mining,Subbituminous,23.8329,85.4729,Operating,1.5,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Tapin_South_coal_mine
+Tara (East & West) Coal Mine,mining,Subbituminous,23.45338,87.23919,Operating,3.0,West Bengal Power Development Corp Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Tara_(East_%26_West)_coal_mine
+Tasra Coal Mine,mining,Subbituminous,23.6470343,86.4619897,Operating,,Steel Authority of India Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Tasra_Coal_Mine
+Tawa Coal Mine,mining,Subbituminous,22.137615,78.170928,Operating,0.6,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Tawa_coal_mine
+Tetariakhar Coal Mine,mining,Subbituminous,23.708769,84.98655,Operating,1.9,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Tetariakhar_coal_mine
+Tetulmari Coal Mine,mining,Bituminous,23.80899177,86.3417206201657,Operating,1.033,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Tetulmari_Coal_Mine
+Tikak Colliery,mining,Subbituminous,27.283288,95.733648,Operating,,North Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Tikak_coal_mine
+Tilaboni Coal Mine,mining,Subbituminous,23.661247,87.275026,Operating,2.14,Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Tilaboni_coal_mine
+Topa Coal Mine,mining,Subbituminous,23.739119,85.486353,Operating,1.35,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Topa_coal_mine
+Trans Damodar Coal Mine,mining,Subbituminous,23.4447105,87.2888048,Operating,1.0,Durgapur Projects Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Trans_Damodar_Coal_Mine
+Tubed Coal Mine,mining,Lignite,23.82119,84.57721,Operating,4.5,Damodar Valley Corporation [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Tubed_coal_mine
+Bhowrah (South) Coal Mine,mining,Bituminous,23.681905,86.400533,Operating,1.577,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Bhowrah_South_coal_mine
+Ukni Deep Coal Mine,mining,Subbituminous,20.020678,79.0678333,Operating,2.7,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Ukni_Deep_OC_Mine
+Umaria Coal Mine,mining,Subbituminous,23.5,80.83,Operating,0.35,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Umaria_coal_mine
+Umarsar Lignite Mine,mining,Lignite,23.73149782,68.81926985,Operating,,Gujarat Mineral Development Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Umarsar_coal_mine
+Umrer Coal Mine,mining,Subbituminous,20.845833,79.271666,Operating,3.3,Western Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Umrer_Coal_Mine
+Urimari Open Cast Coal Mine,mining,Subbituminous,23.698717,85.293249,Operating,1.9,Central Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Urimari_Opencast_coal_mine
+Urtan Coal Mine,mining,Subbituminous,23.245516,81.985844,Operating,0.6,JMS Mining Private [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Urtan_Coal_Mine
+Urtan North Coal Mine,mining,Subbituminous,23.243177,81.979346,Operating,0.6,JMS Mining Private [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Urtan_North_Coal_Mine
+Utkal C Coal Mine,mining,Subbituminous,20.95664286,84.9544075201659,Operating,3.37,Jindal Steel and Power Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Utkal_C_Coal_Mine
+Utkal D and E Coal Mines,mining,Subbituminous,20.883333,84.3333,Operating,4.0,National Aluminium Company Limited [100.0%],GEM_Coal_Mine_Tracker,Approximate,https://www.gem.wiki/Utkal_D_Coal_Mine
+Moonidih Coal Mine,mining,Bituminous,23.740882,86.352473,Operating,3.0,Bharat Coking Coal Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Moonidih_coal_mine
+Vakilpalli Coal Mine,mining,Subbituminous,17.4869444,80.6577777777777,Operating,3.0,The Singareni Collieries Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Vakilpalli_coal_mine
+Vastan Lignite Mine,mining,Lignite,21.43101702,73.1126177239452,Operating,1.2,Gujarat Industries Power Company Co Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Vastan_Lignite_Mine
+Vijay Coal Mine,mining,Subbituminous,22.854326,82.32114,Operating,0.5,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Vijay_coal_mine
+Vindhya Coal Mine,mining,Subbituminous,23.335615,80.906108,Operating,0.705,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Vindhya_coal_mine
+West Bokaro Coal Mine,mining,Bituminous,23.7927473,85.55423096,Operating,10.0,Tata Steel [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/West_Bokaro_coal_mine_(Tata)
+West Jhagrakhand Coal Mine,mining,Subbituminous,23.197211,82.161616,Operating,0.33,South Eastern Coalfields Ltd [100.0%],GEM_Coal_Mine_Tracker,Exact,https://www.gem.wiki/Jhagrakhand_coal_mines
